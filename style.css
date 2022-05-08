@@ -317,7 +317,7 @@ header{
 }
 .container19{
 	text-align: center;
-	margin-top: 30px;
+	margin-top: 60px;
 }
 .media {
 	text-align: center;
@@ -327,4 +327,114 @@ header{
 .media a{
 	color: black;
 	margin: 30px;
+}
+.container20{
+	text-align: center;
+	padding-top: 30px;
+	font-weight: bold;
+	font-size: 20px;
+	color: white;
+	text-decoration: underline;
+}
+.container21{
+	display: flex;
+	color: white;
+}
+.contact{
+	height: 450px;
+	background: url("https://images.unsplash.com/photo-1578662996442-48f60103fc96?crop=entropy&cs=srgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTIwMTgwNjY&ixlib=rb-1.2.1&q=85");
+}
+
+
+.inside2{
+	padding-left: 450px;
+	padding-top:50px ;
+}
+.inside1{
+	padding-left: 100px;
+	padding-top:50px ;
+}
+#location{
+	padding-top: 20px;
+}
+#phone{
+	padding-top: 10px;
+}
+#mail{
+	padding-top: 10px;
+}
+#skype{
+	padding-top: 10px;
+}
+#name{
+	width: 250px;
+	height: 25px;
+	margin-top: 10px;
+	background-color: transparent;
+
+}
+#email{
+	width: 250px;
+	height: 25px;
+	background-color: transparent;
+
+}
+#sub{
+	width: 250px;
+	height: 25px;
+	background-color: transparent;
+
+}
+#msg{
+	width: 250px;
+	height: 80px;
+	background-color: transparent;
+
+}
+#write{
+	font-weight: bold;
+	font-size: 16px;
+}
+::placeholder {
+  color: #CCD1D1 ;
+  }
+#send{
+	width: 256px;
+	height: 25px;
+	background-color: #616A6B;
+	color: white;
+	border: solid 2px #616A6B ;
+}
+.container22{
+	display: flex;
+	background-color: #424949 ;
+height: 230px;
+}
+.last1{
+	padding-left: 100px;
+	padding-top: 40px;
+	color: white;
+}
+.last2{
+	padding-left: 950px;
+	padding-top: 40px;
+	color: white;
+}
+.last2 ::placeholder{
+	color:#424949;
+}
+.last2 button{
+	color: white;
+	background-color:black ;
+	width: 70px;
+	border: 2px solid black;
+	margin: 8px;
+}
+footer{
+	text-align: center;
+	background-color: black;
+
+	color: white;
+	padding-top: 15px;
+	padding-bottom: 10px;
 }
